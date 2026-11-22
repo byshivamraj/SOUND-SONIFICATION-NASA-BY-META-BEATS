@@ -72,7 +72,7 @@ Navigate to `http://localhost:5000` to launch the workstation.
 
 ## 🚀 Deployment & Live Demo
 
-* **Live URL:** [https://nasa-project-by-meta-beats.vercel.app](https://www.google.com/search?q=https://nasa-project-by-meta-beats.vercel.app)
+* **Live URL:** [https://nasa-project-by-meta-beats.vercel.app](https://sound-sonification-nasa-by-meta-bea.vercel.app/)
 * **Hosting Platform:** Vercel (Production)
 
 ---
